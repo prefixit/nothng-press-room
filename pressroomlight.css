@@ -2137,3 +2137,8 @@ pre code span, pre code .token {
 .notion-divider {
   display: none !important;
 }
+
+#block-05ea7624b75d4bacbce712cf71e419a7 .notion-collection inline collection-fcdb76c112214507bfc1b750137e424e{
+    max-height: 520px !important;
+    overflow: hidden !important;
+}
