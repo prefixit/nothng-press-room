@@ -1505,7 +1505,15 @@ h3 {
   font-size: 1.0875rem !important;
 }
 
-.notion-bulleted-list, .notion-numbered-list {
+.notion-bulleted-list {
+  color: rgba(14, 15, 19, 0.5) !important;
+  margin-bottom: 1.5rem !important;
+  font-size: 1.0875rem !important;
+  line-height: 1.675 !important;
+  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+
+.notion-numbered-list {
   color: rgba(14, 15, 19, 0.5) !important;
   margin-bottom: 1.5rem !important;
   font-size: 1.0875rem !important;
