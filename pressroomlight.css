@@ -2050,7 +2050,7 @@ pre code span, pre code .token {
   font-size: 1.5rem !important;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   font-weight: 500 !important;
-  color: #0E0F13 !important;
+  color: rgba(14, 15, 19, 0.5) !important;
 }
 
 .blog-post h1, .blog-post h2, .blog-post .notion-text, .blog-post .notion-code, .blog-post .notion-bulleted-list, .blog-post .notion-numbered-list, .blog-post .notion-quote {
